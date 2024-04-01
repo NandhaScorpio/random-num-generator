@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 
 function GenerateRandomNum()
 {
-  var [randomNum,setRandomNum] = useState(0)
+  var [randomNum,setRandomNum] = useState(1)
 
   function change()
   {
